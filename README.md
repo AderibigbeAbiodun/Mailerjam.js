@@ -5,7 +5,7 @@ Mailerjam.js is a javascript library that allow front-end developers to send ema
 
 * Download <a href="https://cdn.mailerjam.com/mailerjam.js" download>Mailerjam.js</a>
 * CDN link https://cdn.mailerjam.com/mailerjam.js
-* Generate <a href="">API Key</a>
+* Generate <a href="https://mailerjam.com/mailerjamserver/api/register.html">API Key</a>
 
 <h2>Request function</h2>
 
