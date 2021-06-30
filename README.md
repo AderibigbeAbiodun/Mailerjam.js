@@ -43,7 +43,11 @@ Mailerjam.js is a javascript library that allow front-end developers to send ema
     400 - Failed due to some reason
     401 - Invalid API Key
     402 - Invalid API Username
-    
+   
+   <h2>Rate Limit</h2>
+   
+     1 request per second
+     
 <i>Note:</i> Mailerjam.js only work with secure email server (SSL) base SMTP
 
 
