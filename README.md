@@ -8,7 +8,7 @@ Mailerjam.js is a javascript library that allow front-end developers to send ema
 * Generate <a href="https://mailerjam.com/mailerjamserver/api/register.html">API Key</a>
 * Documentation <a href="https://mailerjam.com/mailerjamserver/api/">Documentation</a>
 
-<h2>Request function</h2>
+<h2>Request Function</h2>
 
 	mailerjam({
 		mailbody: {
